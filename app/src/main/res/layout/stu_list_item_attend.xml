@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:padding="10dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="8dp">
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="9dp"
+            android:padding="10dp"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:id="@+id/tvStuName"
+                android:textAlignment="viewStart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rupesh N Zade "
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginStart="220dp"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/attendanceCheckBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Present" />
+
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>

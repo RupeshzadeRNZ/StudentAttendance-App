@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "396133182900",
+    "project_id": "student-attend-ba093",
+    "storage_bucket": "student-attend-ba093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396133182900:android:fe23475296da667cd616e1",
+        "android_client_info": {
+          "package_name": "com.example.studentattend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396133182900-37k80dm45o7sqj33n0umee12f4djotf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNx1tG_D1ApW-3oQJ6mlIt4pH8DRgPDpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396133182900-37k80dm45o7sqj33n0umee12f4djotf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
