@@ -40,8 +40,11 @@ Before you begin, ensure you have the following:
 
 # 5. Usage
 ⫸ User Authentication: Launch the app and sign in or register as a teacher or administrator.
+
 ⫸ Course Management: Create courses for the classes you teach.
+
 ⫸ Student Management: Add student profiles, including their names and student IDs.
+
 ⫸ Attendance Tracking: Select a course and mark student attendance for each class session.
 
 
