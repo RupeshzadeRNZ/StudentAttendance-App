@@ -52,6 +52,8 @@ Before you begin, ensure you have the following:
 
 ![WhatsApp Image 2023-08-22 at 12 07 11 AM](https://github.com/RupeshzadeRNZ/StudentAttendance-App/assets/124900974/d31b7fa9-a82d-47f7-afdc-9e59554c0492)
 
+# Watch Full Video 
+https://www.linkedin.com/posts/rupesh-zade_codsoft-github-androiddevelopment-activity-7098699329401487360-wS9R?utm_source=share&utm_medium=member_desktop
 
 # Contact 
 If you have any questions or need further assistance, feel free to contact me:
